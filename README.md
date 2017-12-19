@@ -1,5 +1,5 @@
 # Get OGP
-Type url to get ogp app
+Type url to get ogp
 
 ## install
 ```sh

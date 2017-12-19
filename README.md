@@ -1,11 +1,18 @@
 # Get OGP
-
-## Usage
-```sh
-
-```
+Type url to get ogp app
 
 ## install
 ```sh
-git clone 
+git clone https://github.com/tomatoaiu/GetOGP.git
+cd GetOGP
+npm i
 ```
+
+## Usage
+```sh
+node app.js
+```
+Access localhost: 3000 with browser
+
+## Reference
+- express
